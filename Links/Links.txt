@@ -1,0 +1,6 @@
+Team 20 Website   Link : http://homepages.cs.ncl.ac.uk/2017-18/CSC2022/Team20/website/index.html
+Google Play Store Link : https://play.google.com/store/apps/details?id=com.ncl.team20.seatonvalley
+
+Note : JavaScript must be enabled to render properly the web page. (https://www.wikihow.com/Enable-JavaScript)
+Note : There is a known-issue with Internet Explorer on University PC's that causes the webpage to not render properly. 
+Add http://homepages.cs.ncl.ac.uk to the “Trusted Sites” or just enable JavaScript within the browser. 
